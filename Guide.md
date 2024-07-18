@@ -1,3 +1,4 @@
+Enterprise level food ordering platform    
 Features 
 User Auth/Registration/Profiles
 Search/Sort/Filter/Pagination
