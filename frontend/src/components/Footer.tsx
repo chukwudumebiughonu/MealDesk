@@ -1,6 +1,6 @@
 const Footer = () => {
   return(
-    <>This is a temoprary footer</>
+    <>This is a temoprary footerr</>
   )
 }
 
