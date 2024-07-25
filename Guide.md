@@ -102,3 +102,5 @@ install authO react with: npm i @auth0/auth0-react
 Create an auth folder and an authprovider file
 
 Install drowpdown-menu with: npx shadcn-ui@latest add drowpdown-menu
+
+install react create to handle api requests by managing the state: npm i react-query
