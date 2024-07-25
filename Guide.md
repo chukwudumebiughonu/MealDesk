@@ -100,3 +100,5 @@ Create an account with Auth0 which is an enterprise authentication system. It ha
 install authO react with: npm i @auth0/auth0-react
 
 Create an auth folder and an authprovider file
+
+Install drowpdown-menu with: npx shadcn-ui@latest add drowpdown-menu

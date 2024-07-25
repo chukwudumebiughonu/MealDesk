@@ -19,7 +19,7 @@ const HomePage = () => {
             Order takeaway even faster!
           </span>
           <span>
-            Download the   App for faster ordering and personalised
+            Download the MealDesk  App for faster ordering and personalised
             recommendations
           </span>
           <img src={appDownloadImage} />
