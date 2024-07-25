@@ -94,3 +94,9 @@ Add Lucid react for icons with: npm i lucide-react
 Add separator component with: npx shadcn-ui@latest add separator
 
 Create a MobileNavbar file with: MobileNav.tsx
+
+Create an account with Auth0 which is an enterprise authentication system. It handles login, registration, sign in password reset
+
+install authO react with: npm i @auth0/auth0-react
+
+Create an auth folder and an authprovider file
