@@ -106,3 +106,7 @@ Install drowpdown-menu with: npx shadcn-ui@latest add drowpdown-menu
 install react create to handle api requests by managing the state: npm i react-query
 
 Install the back end sdk with: npm i express-oauth2-jwt-bearer in the backend
+
+Install the jsonwebtoken with: npm i jsonwebtoken and also npm i @types/jsonwebtoken --save-dev
+
+Install express validator in the backend to handle validations with: npm i express-validator
