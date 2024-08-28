@@ -110,3 +110,11 @@ Install the back end sdk with: npm i express-oauth2-jwt-bearer in the backend
 Install the jsonwebtoken with: npm i jsonwebtoken and also npm i @types/jsonwebtoken --save-dev
 
 Install express validator in the backend to handle validations with: npm i express-validator
+
+
+
+User profile form creation 
+Install form from shadcn-ui with: npx shadcn-ui@latest add form
+Install input with: npx shadcn-ui@latest add input
+
+Install zod with: npm i zod
