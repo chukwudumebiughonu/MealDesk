@@ -7,7 +7,7 @@ const createCurrentUser = async (req: Request, res: Response) => {
 
   //$ 2. Create the user if it doesn't already exist
 
-  //$ 3. Return the user object ot the calling client
+  //$ 3. Return the user object to the calling client
 
 
   try {

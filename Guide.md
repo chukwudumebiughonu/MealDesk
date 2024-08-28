@@ -104,3 +104,5 @@ Create an auth folder and an authprovider file
 Install drowpdown-menu with: npx shadcn-ui@latest add drowpdown-menu
 
 install react create to handle api requests by managing the state: npm i react-query
+
+Install the back end sdk with: npm i express-oauth2-jwt-bearer in the backend
