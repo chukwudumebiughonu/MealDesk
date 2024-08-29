@@ -118,3 +118,9 @@ Install form from shadcn-ui with: npx shadcn-ui@latest add form
 Install input with: npx shadcn-ui@latest add input
 
 Install zod with: npm i zod
+Install toast notification with: npx shadcn-ui@latest add sonner
+
+Update User profile request
+toast notification
+Get user api
+pre-populate user profile
