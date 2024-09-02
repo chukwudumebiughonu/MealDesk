@@ -18,6 +18,6 @@ router.put(
   validateMyUserRequest, 
   MyUserController.updateCurrentUser)
 
-// export default router;
+export default router;
 
-export const myUserRoute = router;
+// export const myUserRoute = router;
