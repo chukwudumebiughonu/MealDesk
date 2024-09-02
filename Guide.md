@@ -124,3 +124,4 @@ Update User profile request
 toast notification
 Get user api
 pre-populate user profile
+protect user profile router

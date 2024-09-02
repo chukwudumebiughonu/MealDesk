@@ -102,7 +102,7 @@ export const useCreateMyUser = () => {
     }
 
     return response.json();
-  };
+  };   
 
   const {
     mutateAsync: updateUser,
